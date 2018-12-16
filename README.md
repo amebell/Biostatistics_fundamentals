@@ -1,4 +1,3 @@
-# Biostatistics Fundamentals using Python
+# 
 
-Extended exercise from Udemy's course by dr. Juan Klopper 
-Link [https://www.udemy.com/biostatistics-fundamentals-using-python/]
+Extended version of the exercise suggested by by dr. Juan Klopper in his Udemy course [Biostatistics Fundamentals using Python][https://www.udemy.com/biostatistics-fundamentals-using-python/].
