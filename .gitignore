@@ -26,12 +26,12 @@
 
 # Files #
 ######################
-*.csv
-*.parquet
-*.dat
-*.txt
-*.xlsx
-*.xls
+#*.csv
+#*.parquet
+#*.dat
+#*.txt
+#*.xlsx
+#*.xls
 
 # PySpark #
 ######################
